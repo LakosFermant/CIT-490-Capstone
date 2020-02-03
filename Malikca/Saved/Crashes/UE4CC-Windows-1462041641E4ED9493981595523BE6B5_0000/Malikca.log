@@ -1,0 +1,1201 @@
+﻿Log file open, 02/03/20 16:38:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Malikca
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.822962
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU:         Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz, GPU: Intel(R) HD Graphics
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.03-21.38.48:169][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.03-21.38.48:170][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.03-21.38.48:170][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.03-21.38.48:170][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.03-21.38.48:170][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:170][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:181][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-21.38.48:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-21.38.48:182][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-21.38.48:184][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-21.38.48:184][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.03-21.38.48:222][  0]LogHAL: Display: Platform has ~ 16 GB [17081856000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.03-21.38.48:222][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.02.03-21.38.48:222][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.03-21.38.48:223][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.03-21.38.48:223][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Scalability.ini]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.03-21.38.48:224][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.03-21.38.48:232][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.03-21.38.48:232][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.03-21.38.48:232][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Config/Windows/Engine.ini]
+[2020.02.03-21.38.48:233][  0]LogInit: Computer: THE-AFTERMATH
+[2020.02.03-21.38.48:233][  0]LogInit: User: User
+[2020.02.03-21.38.48:233][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.03-21.38.48:233][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.03-21.38.48:233][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.03-21.38.48:233][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.03-21.38.48:233][  0]LogMemory: Process Physical Memory: 96.44 MB used, 96.44 MB peak
+[2020.02.03-21.38.48:233][  0]LogMemory: Process Virtual Memory: 83.89 MB used, 83.89 MB peak
+[2020.02.03-21.38.48:233][  0]LogMemory: Physical Memory: 11417.42 MB used,  4873.11 MB free, 16290.53 MB total
+[2020.02.03-21.38.48:233][  0]LogMemory: Virtual Memory: 4639.16 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2020.02.03-21.38.48:550][  0]LogInit: Using OS detected language (en-US).
+[2020.02.03-21.38.48:550][  0]LogInit: Using OS detected locale (en-US).
+[2020.02.03-21.38.48:556][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.02.03-21.38.48:985][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.03-21.38.49:120][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.03-21.38.49:120][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.03-21.38.59:290][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.02.03-21.38.59:290][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.03-21.38.59:488][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.02.03-21.38.59:488][  0]LogD3D11RHI:       1977/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.02.03-21.38.59:493][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics' (Feature Level 10_0)
+[2020.02.03-21.38.59:493][  0]LogD3D11RHI:       32/0/1632 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.02.03-21.38.59:496][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.03-21.38.59:496][  0]LogD3D11RHI:       0/0/8145 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.03-21.38.59:496][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.03-21.38.59:506][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.03-21.38.59:507][  0]LogD3D11RHI:     GPU DeviceId: 0x1c81 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.03-21.38.59:507][  0]LogWindows: EnumDisplayDevices:
+[2020.02.03-21.38.59:507][  0]LogWindows:    0. 'Intel(R) HD Graphics' (P:0 D:1)
+[2020.02.03-21.38.59:507][  0]LogWindows:    1. 'Intel(R) HD Graphics' (P:0 D:0)
+[2020.02.03-21.38.59:508][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050' (P:1 D:1)
+[2020.02.03-21.38.59:508][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.03-21.38.59:509][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.03-21.38.59:509][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.02.03-21.38.59:509][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.03-21.38.59:509][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.02.03-21.38.59:509][  0]LogD3D11RHI:   Driver Version: 442.19 (internal:26.21.14.4219, unified:442.19)
+[2020.02.03-21.38.59:509][  0]LogD3D11RHI:      Driver Date: 1-29-2020
+[2020.02.03-21.38.59:509][  0]LogRHI: Texture pool is 1384 MB (70% of 1977 MB)
+[2020.02.03-21.38.59:623][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.03-21.38.59:654][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-21.38.59:656][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-21.38.59:656][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.02.03-21.38.59:668][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.03-21.39.00:757][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.03-21.39.00:800][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.03-21.39.00:845][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.03-21.39.00:889][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.03-21.39.00:939][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.03-21.39.00:986][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.03-21.39.01:024][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.03-21.39.01:058][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.03-21.39.01:083][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.03-21.39.01:222][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.03-21.39.01:223][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.03-21.39.01:243][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.03-21.39.01:378][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.03-21.39.01:378][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.03-21.39.01:429][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.03-21.39.01:429][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.03-21.39.01:467][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.03-21.39.01:504][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.03-21.39.01:539][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.03-21.39.01:586][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.03-21.39.01:680][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.03-21.39.01:681][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.03-21.39.01:681][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.03-21.39.01:911][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.03-21.39.02:392][  0]LogShaderCompilers: Guid format shader working directory is -35 characters bigger than the processId version (../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Intermediate/Shaders/WorkingDirectory/16380/).
+[2020.02.03-21.39.02:392][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/User/AppData/Local/Temp/UnrealShaderWorkingDir/F4DA42D74CE975ECBA680DA5A186BBC9/'.
+[2020.02.03-21.39.02:396][  0]LogXGEController: Cleaning working directory: C:/Users/User/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2020.02.03-21.39.02:396][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.03-21.39.02:397][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.03-21.39.02:397][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.03-21.39.05:977][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: Loaded boot cache 0.34s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-21.39.06:312][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.03-21.39.06:345][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.03-21.39.06:345][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.03-21.39.06:345][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.03-21.39.06:359][  0]LogDerivedDataCache: Using Local data cache path C:/Users/User/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.03-21.39.06:359][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.03-21.39.06:359][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.03-21.39.06:391][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.03-21.39.06:401][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.03-21.39.06:431][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.03-21.39.06:815][  0]LogAssetRegistry: FAssetRegistry took 0.0402 seconds to start up
+[2020.02.03-21.39.07:523][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.03-21.39.08:155][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.03-21.39.08:155][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.03-21.39.08:155][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.03-21.39.08:155][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.03-21.39.08:156][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.03-21.39.08:236][  0]LogNetVersion: Malikca 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 375086307)
+[2020.02.03-21.39.09:915][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.061194 seconds
+[2020.02.03-21.39.09:923][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.02.03-21.39.09:923][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.02.03-21.39.09:923][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.03-21.39.15:501][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.03-21.39.15:537][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.03-21.39.16:087][  0]SourceControl: Source control is disabled
+[2020.02.03-21.39.16:088][  0]SourceControl: Source control is disabled
+[2020.02.03-21.39.16:127][  0]SourceControl: Source control is disabled
+[2020.02.03-21.39.16:152][  0]SourceControl: Source control is disabled
+[2020.02.03-21.39.17:117][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.03-21.39.17:867][  0]LogOcInput: OculusInput pre-init called
+[2020.02.03-21.39.19:294][  0]LogEngine: Initializing Engine...
+[2020.02.03-21.39.25:027][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.02.03-21.39.25:033][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2020.02.03-21.39.25:658][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.03-21.39.25:772][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.03-21.39.25:981][  0]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-21.39.26:026][  0]LogInit: FAudioDevice initialized.
+[2020.02.03-21.39.26:027][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.03-21.39.26:136][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/User/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.02.03-21.39.26:151][  0]LogInit: Texture streaming: Enabled
+[2020.02.03-21.39.26:288][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.03-21.39.27:090][  0]LogInit: Transaction tracking system initialized
+[2020.02.03-21.39.27:551][  0]BlueprintLog: New page: Editor Load
+[2020.02.03-21.39.28:539][  0]LocalizationService: Localization service is disabled
+[2020.02.03-21.39.29:953][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/' took 0.08s
+[2020.02.03-21.39.29:953][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.03-21.39.29:953][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.03-21.39.31:400][  0]SourceControl: Source control is disabled
+[2020.02.03-21.39.31:404][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-21.39.31:414][  0]LightingResults: New page: Lighting Build
+[2020.02.03-21.39.31:441][  0]MapCheck: New page: Map Check
+[2020.02.03-21.39.31:441][  0]LightingResults: New page: Lighting Build
+[2020.02.03-21.39.32:645][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2020.02.03-21.39.33:955][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-21.39.34:050][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-21.39.34:101][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.02.03-21.39.34:103][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-21.39.34:104][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.523ms to complete.
+[2020.02.03-21.39.34:104][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.701
+[2020.02.03-21.39.34:376][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.39.34:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.39.34:400][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.39.34:410][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.39.34:451][  0]LogCollectionManager: Loaded 0 collections in 0.001468 seconds
+[2020.02.03-21.39.34:543][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Collections/' took 0.01s
+[2020.02.03-21.39.34:543][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Developers/User/Collections/' took 0.02s
+[2020.02.03-21.39.34:543][  0]LogFileCache: Scanning file cache for directory 'D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Collections/' took 0.02s
+[2020.02.03-21.39.34:543][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.02.03-21.39.34:560][  0]LogContentBrowser: Native class hierarchy populated in 0.0143 seconds. Added 2732 classes and 659 folders.
+[2020.02.03-21.39.34:581][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.03-21.39.34:594][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:610][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:636][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:654][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:664][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:673][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:685][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:706][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:726][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:735][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:744][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:752][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:762][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:801][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:809][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:819][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:827][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:836][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:844][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:854][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:863][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.34:881][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.02.03-21.39.35:192][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.02.03-21.39.35:227][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2020.02.03-21.39.35:340][  0]LogSlate: Took 0.008482 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.03-21.39.35:355][  0]LogSlate: Took 0.010460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.03-21.39.35:375][  0]LogSlate: Took 0.009569 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.03-21.39.35:597][  0]LogRenderer: Reallocating scene render targets to support 1020x572 Format 10 NumSamples 1 (Frame:1).
+[2020.02.03-21.39.37:161][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.02.03-21.39.37:161][  0]LogLoad: (Engine Initialization) Total time: 57.16 seconds
+[2020.02.03-21.39.37:161][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.03-21.39.37:242][  0]LogAssetRegistry: Asset discovery search completed in 30.4494 seconds
+[2020.02.03-21.39.37:245][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2020.02.03-21.39.37:245][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2020.02.03-21.39.37:257][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.03-21.39.37:322][  0]LogSlate: Took 0.008843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-21.40.01:935][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.40.01:995][436]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-21.40.02:017][436]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-21.40.02:019][436]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-21.40.02:026][436]PIE: New page: PIE session: FirstPersonExampleMap (Feb 3, 2020, 11:40:02 AM)
+[2020.02.03-21.40.02:049][436]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.03-21.40.02:076][436]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027715s)
+[2020.02.03-21.40.02:078][436]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-21.40.02:085][436]LogPlayLevel: PIE: World Init took: (0.008300s)
+[2020.02.03-21.40.02:085][436]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036426s)
+[2020.02.03-21.40.02:112][436]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.02.03-21.40.02:280][436]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-21.40.02:302][436]LogInit: FAudioDevice initialized.
+[2020.02.03-21.40.02:358][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.03-21.40.02:373][436]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.03-16.40.02
+[2020.02.03-21.40.02:379][436]LogWorld: Bringing up level for play took: 0.009265
+[2020.02.03-21.40.02:424][436]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2020.02.03-21.40.02:430][436]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.207
+[2020.02.03-21.40.02:430][436]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-21.40.30:051][190]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.40.31:678][377]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-21.40.31:681][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.40.31:716][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-21.40.31:717][377]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-21.40.31:754][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-21.40.31:767][377]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.02.03-21.40.31:783][378]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.02.03-21.41.16:447][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.44.22:539][311]LogSlate: Took 0.000353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-21.44.30:961][311]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.02.03-21.44.33:090][539]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-21.44.34:477][690]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-21.46.10:650][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.46.44:290][441]LogSlate: Window 'Select Path' being destroyed
+[2020.02.03-21.46.44:337][441]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2020.02.03-21.46.44:371][441]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-21.46.44:992][441]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 121 classes and 0 folders.
+[2020.02.03-21.47.01:349][232]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.50.07:390][904]LogUObjectHash: Compacting FUObjectHashTables data took   5.47ms
+[2020.02.03-21.50.07:703][904]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/FirstPersonExampleMap_Auto1010E2BEB4CA4D25EBB0B9DABA57DD1DB.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2020.02.03-21.50.07:714][904]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.373
+[2020.02.03-21.50.07:714][904]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.373
+[2020.02.03-21.50.07:718][904]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/MagicStaff] ([1] browsable assets)...
+[2020.02.03-21.50.07:747][904]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/MagicStaff.MagicStaff]
+[2020.02.03-21.50.07:747][904]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MagicStaff]
+[2020.02.03-21.50.07:775][904]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MagicStaff_Auto138CD80DC448C37B53A002CAF8A74D45F.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/Blueprints/MagicStaff_Auto1.uasset'
+[2020.02.03-21.50.07:776][904]LogFileHelpers: Auto-saving content packages took 0.059
+[2020.02.03-21.57.11:663][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.57.26:849][434]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.57.35:972][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.58.39:933][513]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.58.41:759][578]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.59.01:401][727]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.59.04:085][883]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.59.06:127][999]LogSlate: Took 0.008473 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.03-21.59.06:460][ 16]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.59.09:881][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-21.59.18:681][685]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-21.59.48:879][187]LogEditorTransaction: Undo Set Scale
+[2020.02.03-22.00.58:264][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.00.58:355][ 86]LogActorFactory: Actor Factory created Sphere
+[2020.02.03-22.00.59:615][165]LogActorFactory: Actor Factory created Sphere
+[2020.02.03-22.01.07:239][669]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.01.08:219][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.01.12:590][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.01.16:216][229]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.01.17:174][291]LogEditorViewport: Clicking on Actor (CTRL LMB): MagicStaff_C (MagicStaff)
+[2020.02.03-22.01.23:341][690]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.01.25:561][834]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.02.03-22.01.26:744][834]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.03-22.01.26:755][834]LogSlate: Window 'MagicStaff' being destroyed
+[2020.02.03-22.01.26:860][834]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.01.28:218][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2020.02.03-22.01.28:488][834]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.02.03-22.01.33:258][882]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-22.01.34:361][969]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-22.01.42:170][836]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2020.02.03-22.01.42:246][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.01.43:003][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.01.45:395][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.02.17:365][395]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.02.19:407][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.02.21:424][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.02.32:997][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.02.33:811][187]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.03.10:878][353]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2020.02.03-22.03.10:920][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.03.14:854][799]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.03.15:772][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.03.28:023][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.03.32:382][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.03.36:275][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall1)
+[2020.02.03-22.03.44:019][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.03.46:867][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.03.52:025][715]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.03-22.03.57:077][218]LogConsoleManager: Warning: Console object named 'ActorComponents.Enable' already exists but is being registered again, but we weren't expected it to be! (FConsoleManager::AddConsoleObject)
+[2020.02.03-22.03.59:246][433]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.04.00:646][581]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2020.02.03-22.04.00:671][581]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.04.06:529][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.04.10:348][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.04.12:357][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.04.13:958][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.04.14:549][ 29]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.04.15:937][176]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.04.25:725][192]LogSlate: Window 'Select Path' being destroyed
+[2020.02.03-22.04.25:775][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.02.03-22.04.25:804][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.04.25:807][192]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.04.40:098][ 12]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.04.40:166][ 17]LogSlate: Window 'MagicStaff' being destroyed
+[2020.02.03-22.04.40:171][ 17]LogSlate: Window 'MagicStaff' being destroyed
+[2020.02.03-22.04.41:295][119]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.04.43:672][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.02.03-22.04.45:190][360]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.03-22.04.45:195][360]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.04.45:477][360]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2020.02.03-22.04.45:737][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.02.03-22.05.07:099][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.05.08:141][718]Cmd: TRANSACTION UNDO
+[2020.02.03-22.05.08:141][718]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.03-22.05.10:767][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.05.10:823][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.02.03-22.05.11:078][ 20]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/FirstPersonExampleMap_Auto26A9D12EB4DDE4197A3240FABF6D03C38.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2020.02.03-22.05.11:081][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.292
+[2020.02.03-22.05.11:081][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.292
+[2020.02.03-22.05.13:767][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.05.15:574][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.05.15:688][527]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-22.05.16:467][602]LogActorFactory: Actor Factory created Cylinder
+[2020.02.03-22.05.34:573][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.05.37:473][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.05.42:663][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.05.45:845][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.05.53:809][623]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.02.03-22.05.55:313][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.05.58:720][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.06.02:405][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.02.03-22.06.04:196][679]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2020.02.03-22.06.04:965][745]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.06.36:666][125]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.07.09:118][343]LogSlate: Window 'Create Merged Actor' being destroyed
+[2020.02.03-22.07.09:171][343]LogStaticMesh: Building static mesh take2...
+[2020.02.03-22.07.09:174][343]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.02.03-22.07.09:210][343]LogStaticMesh: Built static mesh [0.04s] /Game/Blueprints/take2.take2
+[2020.02.03-22.07.12:157][558]LogSlate: Window 'Merge Actors' being destroyed
+[2020.02.03-22.07.12:161][558]LogSlate: Window 'Merge Actors' being destroyed
+[2020.02.03-22.07.58:301][856]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Blueprints/take2.take2
+[2020.02.03-22.07.58:339][856]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.02.03-22.07.59:564][856]LogRenderer: Reallocating scene render targets to support 1072x740 Format 10 NumSamples 1 (Frame:1).
+[2020.02.03-22.08.04:836][ 64]LogSlate: Window 'take2' being destroyed
+[2020.02.03-22.08.04:841][ 64]LogSlate: Window 'take2' being destroyed
+[2020.02.03-22.09.11:941][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/take2" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Props/take2.uasset" SILENT=true
+[2020.02.03-22.09.11:972][282]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/take2A5DFFF7D4D534C9C267EC58C3EAE9CFA.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Props/take2.uasset'
+[2020.02.03-22.09.12:278][282]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2020.02.03-22.09.12:358][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.02.03-22.09.12:390][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2020.02.03-22.09.29:731][ 52]LogSlate: Window 'Select Path' being destroyed
+[2020.02.03-22.09.29:780][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.02.03-22.09.29:812][ 52]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.09.39:092][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.09.43:444][795]LogSlate: Window 'MagicStaff' being destroyed
+[2020.02.03-22.09.43:449][795]LogSlate: Window 'MagicStaff' being destroyed
+[2020.02.03-22.09.53:015][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2020.02.03-22.09.54:363][541]LogSlate: Window 'Delete Assets' being destroyed
+[2020.02.03-22.09.54:368][541]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.09.54:664][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.02.03-22.09.54:919][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.02.03-22.09.55:701][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.09.57:135][786]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cylinder)
+[2020.02.03-22.09.57:177][786]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.09.59:158][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cylinder)
+[2020.02.03-22.10.00:135][ 89]Cmd: DELETE
+[2020.02.03-22.10.00:136][ 89]Cmd: ACTOR DELETE
+[2020.02.03-22.10.00:153][ 89]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.10.00:188][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.02.03-22.10.00:188][ 89]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2020.02.03-22.10.01:628][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.10.02:896][405]LogActorFactory: Actor Factory created take2
+[2020.02.03-22.10.04:301][561]LogActorFactory: Actor Factory created take2
+[2020.02.03-22.10.07:059][836]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.10.23:623][539]LogSlate: Window 'Select Path' being destroyed
+[2020.02.03-22.10.23:669][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.02.03-22.10.23:701][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.10.23:706][539]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/MagicStaff.MagicStaff
+[2020.02.03-22.10.50:378][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.10.59:459][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Props/MagicStaffProp" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Props/MagicStaffProp.uasset" SILENT=true
+[2020.02.03-22.10.59:490][ 28]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MagicStaffProp9D6A15004B657538576F5DAD422DC5FC.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Props/MagicStaffProp.uasset'
+[2020.02.03-22.10.59:660][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.02.03-22.10.59:700][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.02.03-22.10.59:734][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.03-22.11.06:388][408]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.11.20:882][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.11.20:999][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MagicStaff" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Blueprints/MagicStaff.uasset" SILENT=true
+[2020.02.03-22.11.21:027][240]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MagicStaff3CEEEE844F12AC4E96F195AFB0C92C0C.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Blueprints/MagicStaff.uasset'
+[2020.02.03-22.11.21:652][274]BlueprintLog: New page: Compile MagicStaff
+[2020.02.03-22.11.21:931][274]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.02.03-22.11.32:563][333]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2020.02.03-22.11.37:190][816]Cmd: DELETE
+[2020.02.03-22.11.37:190][816]Cmd: ACTOR DELETE
+[2020.02.03-22.11.37:192][816]LogEditorActor: Deleted Actor: TextRenderActor
+[2020.02.03-22.11.37:230][816]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.02.03-22.11.37:230][816]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.02.03-22.11.41:251][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.02.03-22.11.44:943][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube11)
+[2020.02.03-22.11.47:217][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.02.03-22.11.47:863][881]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2020.02.03-22.11.48:521][947]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Floor)
+[2020.02.03-22.11.49:247][ 21]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2020.02.03-22.11.49:922][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.02.03-22.11.51:825][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube15)
+[2020.02.03-22.11.52:440][303]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube16)
+[2020.02.03-22.11.52:939][348]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (EditorCube17)
+[2020.02.03-22.11.53:892][450]Cmd: DELETE
+[2020.02.03-22.11.53:892][450]Cmd: ACTOR DELETE
+[2020.02.03-22.11.53:894][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.53:895][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.53:895][450]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.53:932][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.02.03-22.11.53:932][450]LogEditorActor: Deleted 3 Actors (0.040 secs)
+[2020.02.03-22.11.55:727][663]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube21)
+[2020.02.03-22.11.56:599][753]Cmd: DELETE
+[2020.02.03-22.11.56:599][753]Cmd: ACTOR DELETE
+[2020.02.03-22.11.56:600][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.56:638][753]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.02.03-22.11.56:638][753]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.02.03-22.11.57:359][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2020.02.03-22.11.57:564][854]Cmd: DELETE
+[2020.02.03-22.11.57:564][854]Cmd: ACTOR DELETE
+[2020.02.03-22.11.57:566][854]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.57:600][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.03-22.11.57:601][854]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.03-22.11.57:885][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube19)
+[2020.02.03-22.11.58:024][894]Cmd: DELETE
+[2020.02.03-22.11.58:025][894]Cmd: ACTOR DELETE
+[2020.02.03-22.11.58:026][894]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.58:063][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.02.03-22.11.58:064][894]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.02.03-22.11.58:449][939]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2020.02.03-22.11.58:550][942]Cmd: DELETE
+[2020.02.03-22.11.58:550][942]Cmd: ACTOR DELETE
+[2020.02.03-22.11.58:552][942]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.11.58:586][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2020.02.03-22.11.58:586][942]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.03-22.12.02:731][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.02.03-22.12.03:753][518]Cmd: DELETE
+[2020.02.03-22.12.03:753][518]Cmd: ACTOR DELETE
+[2020.02.03-22.12.03:755][518]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.03:791][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.02.03-22.12.03:791][518]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.02.03-22.12.04:368][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2020.02.03-22.12.04:458][587]Cmd: DELETE
+[2020.02.03-22.12.04:458][587]Cmd: ACTOR DELETE
+[2020.02.03-22.12.04:461][587]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.04:495][587]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.02.03-22.12.04:495][587]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.03-22.12.06:623][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube12)
+[2020.02.03-22.12.07:191][895]Cmd: DELETE
+[2020.02.03-22.12.07:191][895]Cmd: ACTOR DELETE
+[2020.02.03-22.12.07:193][895]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.07:230][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.03-22.12.07:230][895]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.02.03-22.12.07:507][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube14)
+[2020.02.03-22.12.07:842][957]Cmd: DELETE
+[2020.02.03-22.12.07:842][957]Cmd: ACTOR DELETE
+[2020.02.03-22.12.07:843][957]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.07:879][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.02.03-22.12.07:880][957]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2020.02.03-22.12.08:224][997]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube13)
+[2020.02.03-22.12.08:946][ 71]Cmd: DELETE
+[2020.02.03-22.12.08:946][ 71]Cmd: ACTOR DELETE
+[2020.02.03-22.12.08:948][ 71]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.08:983][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.02.03-22.12.08:983][ 71]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2020.02.03-22.12.09:262][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube10)
+[2020.02.03-22.12.09:602][133]Cmd: DELETE
+[2020.02.03-22.12.09:602][133]Cmd: ACTOR DELETE
+[2020.02.03-22.12.09:604][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.02.03-22.12.09:638][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.02.03-22.12.09:638][133]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.02.03-22.13.34:838][624]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.14.36:925][529]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.02.03-22.14.41:180][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.14.47:189][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.15.45:959][812]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2020.02.03-22.15.46:205][812]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/FirstPersonExampleMap_Auto3895D398F4FAC2FA51C6AC48472CE8BF7.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto3.umap'
+[2020.02.03-22.15.46:208][812]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.290
+[2020.02.03-22.15.46:208][812]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.290
+[2020.02.03-22.25.46:636][595]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.02.03-22.25.46:636][595]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.042
+[2020.02.03-22.31.44:989][ 64]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.31.56:022][136]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2020.02.03-22.31.56:493][136]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.02.03-22.31.57:123][136]LogSlate: Took 0.008157 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.03-22.35.47:342][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   6.56ms
+[2020.02.03-22.35.47:343][ 94]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.099
+[2020.02.03-22.35.47:345][ 94]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.02.03-22.35.47:345][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.02.03-22.35.47:372][ 94]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenu_Auto4C1C472E04E6AA9C3918A76ACCEB58614.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/UI/MainMenu_Auto4.uasset'
+[2020.02.03-22.35.47:373][ 94]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.02.03-22.38.10:141][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.38.39:597][227]LogSlate: Took 0.024122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.03-22.41.14:617][600]AssetReimport: New page: Outstanding source content changes 12:41:14 PM
+[2020.02.03-22.41.14:623][600]LogFactory: FactoryCreateFile: FontFace with FontFileImportFactory (0 0 D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Fonts/NightmarePills-BV2w.ttf)
+[2020.02.03-22.41.17:584][600]LogSlate: Window 'Font Face Import Options' being destroyed
+[2020.02.03-22.41.17:601][600]LogSlate: FontCache flush requested. Reason: UFontFace::PostEditChangeProperty
+[2020.02.03-22.41.17:638][601]LogSlate: Took 0.000646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-22.41.17:668][601]LogSlate: Took 0.007803 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.03-22.41.17:682][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Fonts/NightmarePills-BV2w" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Fonts/NightmarePills-BV2w.uasset" SILENT=true
+[2020.02.03-22.41.17:692][601]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/NightmarePills-BV2w1F8FC2954BE839711734D492EAFDED83.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Fonts/NightmarePills-BV2w.uasset'
+[2020.02.03-22.41.17:719][601]LogSlate: Took 0.000842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.03-22.41.17:734][601]LogSlate: Took 0.007594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.03-22.41.17:747][601]LogSlate: Took 0.007564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.03-22.41.17:764][601]LogSlate: Took 0.001767 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.02.03-22.41.17:765][601]LogSlate: Took 0.000460 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.02.03-22.41.20:864][712]AssetReimport: Importing new asset /Game/Fonts/NightmarePills-BV2w.
+[2020.02.03-22.42.27:800][122]LogEditorTransaction: Undo Move Widget
+[2020.02.03-22.44.00:036][759]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.45.08:961][716]AssetReimport: New page: Outstanding source content changes 12:45:08 PM
+[2020.02.03-22.45.08:963][716]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Textures/color red.png)
+[2020.02.03-22.45.09:047][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/color_red" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Textures/color_red.uasset" SILENT=true
+[2020.02.03-22.45.09:062][717]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/color_redA9DFF3E241169D10C45A4F973F5FB0D7.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Textures/color_red.uasset'
+[2020.02.03-22.45.12:088][861]AssetReimport: Importing new asset /Game/Textures/color_red.
+[2020.02.03-22.45.17:009][125]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.02.03-22.45.19:080][214]LogAssetEditorManager: Opening Asset editor for Material /Game/Textures/red.red
+[2020.02.03-22.45.19:087][214]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.02.03-22.45.19:228][214]LogMaterial: Display: Missing cached shader map for material red, compiling. 
+[2020.02.03-22.45.19:274][214]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.02.03-22.45.21:992][324]LogMaterialEditor: Saving and Compiling material red
+[2020.02.03-22.45.26:024][324]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.02.03-22.45.26:024][324]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.02.03-22.45.26:054][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/red" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Textures/red.uasset" SILENT=true
+[2020.02.03-22.45.26:078][324]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/red466AE1284D6C5F27989846BD783D622F.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Textures/red.uasset'
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: Texture samplers: 4/16
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.02.03-22.45.29:894][499]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.02.03-22.45.33:311][658]BlueprintLog: New page: Compile MainMenu
+[2020.02.03-22.45.33:378][658]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.02.03-22.45.34:166][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset" SILENT=true
+[2020.02.03-22.45.34:189][689]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuDB8906104160F6C798941AAC6833F960.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset'
+[2020.02.03-22.45.34:819][719]LogSlate: Took 0.000535 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.02.03-22.45.40:531][997]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.02.03-22.45.43:558][133]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.03-22.45.43:647][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MagicStaff" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Blueprints/MagicStaff.uasset" SILENT=true
+[2020.02.03-22.45.43:682][136]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MagicStaff59069D9E44FBD66FD41DA2B0146FF766.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Blueprints/MagicStaff.uasset'
+[2020.02.03-22.45.44:860][197]BlueprintLog: New page: Compile MagicStaff
+[2020.02.03-22.45.45:217][197]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.49:224][388]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (Button /Engine/UMG/Editor/Transient.Button_81).  Import failed...
+[2020.02.03-22.45.49:224][388]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2020.02.03-22.45.59:008][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_11.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_2.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_3.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_4.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_5.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_7.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_13.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_12.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_10.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_17.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_18.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_19.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_20.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.45.59:009][814]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_7) from referencer (Button /Engine/UMG/Editor/Transient.Button_81).  Import failed...
+[2020.02.03-22.45.59:009][814]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_7"''
+[2020.02.03-22.47.01:892][697]LogUObjectHash: Compacting FUObjectHashTables data took   6.36ms
+[2020.02.03-22.47.02:183][697]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/FirstPersonExampleMap_Auto53BBB15234F289938CAC3C0BB7BEB884F.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/FirstPersonBP/Maps/FirstPersonExampleMap_Auto5.umap'
+[2020.02.03-22.47.02:186][697]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonBP/Maps/FirstPersonExampleMap' took 0.366
+[2020.02.03-22.47.02:186][697]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.366
+[2020.02.03-22.47.02:189][697]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.02.03-22.47.02:189][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.02.03-22.47.02:215][697]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenu_Auto55FB647E846B49963558E24B786F2FEE1.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/UI/MainMenu_Auto5.uasset'
+[2020.02.03-22.47.02:217][697]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Fonts/NightmarePills-BV2w_Font] ([1] browsable assets)...
+[2020.02.03-22.47.02:225][697]OBJ SavePackage:     Rendered thumbnail for [Font /Game/Fonts/NightmarePills-BV2w_Font.NightmarePills-BV2w_Font]
+[2020.02.03-22.47.02:225][697]OBJ SavePackage: Finished generating thumbnails for package [/Game/Fonts/NightmarePills-BV2w_Font]
+[2020.02.03-22.47.02:236][697]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/NightmarePills-BV2w_Font_Auto584574FAB4E25A531C2449383ADD2A335.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/Fonts/NightmarePills-BV2w_Font_Auto5.uasset'
+[2020.02.03-22.47.02:237][697]LogFileHelpers: Auto-saving content packages took 0.049
+[2020.02.03-22.50.58:223][860]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.03-22.51.13:841][570]LogSlate: Window 'Color Picker' being destroyed
+[2020.02.03-22.51.19:098][822]BlueprintLog: New page: Compile MainMenu
+[2020.02.03-22.51.19:152][822]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2020.02.03-22.51.20:101][865]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-22.51.20:134][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.51.20:134][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-22.51.20:134][865]PIE: New page: PIE session: FirstPersonExampleMap (Feb 3, 2020, 12:51:20 PM)
+[2020.02.03-22.51.20:135][865]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.03-22.51.20:166][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031351s)
+[2020.02.03-22.51.20:167][865]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-22.51.20:167][865]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2020.02.03-22.51.20:167][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032691s)
+[2020.02.03-22.51.20:215][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2020.02.03-22.51.20:360][865]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-22.51.20:378][865]LogInit: FAudioDevice initialized.
+[2020.02.03-22.51.20:423][865]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.03-22.51.20:426][865]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.03-17.51.20
+[2020.02.03-22.51.20:427][865]LogWorld: Bringing up level for play took: 0.002761
+[2020.02.03-22.51.20:442][865]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap 0.218
+[2020.02.03-22.51.20:442][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.51.23:653][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.51.23:654][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.51.23:692][ 50]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-22.51.23:692][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.51.23:740][ 50]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.51.23:746][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.02.03-22.51.23:777][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.02.03-22.52.05:928][477]LogSlate: Window 'Plugins' being destroyed
+[2020.02.03-22.52.05:937][477]LogSlate: Window 'Plugins' being destroyed
+[2020.02.03-22.52.05:937][477]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2020.02.03-22.52.41:033][624]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.02.03-22.52.42:426][624]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.02.03-22.53.11:285][932]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-22.53.11:311][932]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.53.11:311][932]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-22.53.11:312][932]PIE: New page: PIE session: FirstPersonExampleMap (Feb 3, 2020, 12:53:11 PM)
+[2020.02.03-22.53.11:312][932]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.02.03-22.53.11:328][932]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016576s)
+[2020.02.03-22.53.11:329][932]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-22.53.11:329][932]LogPlayLevel: PIE: World Init took: (0.000928s)
+[2020.02.03-22.53.11:329][932]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017677s)
+[2020.02.03-22.53.11:437][932]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2020.02.03-22.53.11:581][932]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-22.53.11:598][932]LogInit: FAudioDevice initialized.
+[2020.02.03-22.53.11:629][932]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.03-22.53.11:632][932]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2020.02.03-17.53.11
+[2020.02.03-22.53.11:633][932]LogWorld: Bringing up level for play took: 0.002168
+[2020.02.03-22.53.11:647][932]PIE: Play in editor start time for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap -0.576
+[2020.02.03-22.53.11:647][932]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.53.13:110][ 12]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.53.13:111][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.53.13:147][ 12]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-22.53.13:147][ 12]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2020.02.03-22.53.13:202][ 12]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.53.13:229][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.02.03-22.53.13:261][ 13]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.02.03-22.53.22:593][411]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.02.03-22.53.22:636][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2020.02.03-22.53.24:621][411]LogSlate: Window 'Save Content' being destroyed
+[2020.02.03-22.53.24:677][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.02.03-22.53.24:966][411]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/FirstPersonExampleMap8ACC01DF45623D6A2C55B481866756F2.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.02.03-22.53.25:010][411]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.382
+[2020.02.03-22.53.25:019][411]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/NightmarePills-BV2w_FontDCD0805342C01EEAC6A41A8558CE757C.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Fonts/NightmarePills-BV2w_Font.uasset'
+[2020.02.03-22.53.25:075][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.02.03-22.53.25:092][411]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuE4BF35DC4772DA1A5A04CBB332622DCD.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainMenu.umap'
+[2020.02.03-22.53.25:094][411]LogFileHelpers: Saving map 'MainMenu' took 0.067
+[2020.02.03-22.53.25:094][411]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset" SILENT=true
+[2020.02.03-22.53.25:122][411]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuFFEC72D64445217D65F6718B7A99EAAA.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset'
+[2020.02.03-22.53.25:136][411]Cmd: MAP LOAD FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-22.53.25:137][411]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.25:137][411]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.03-22.53.25:139][411]MapCheck: New page: Map Check
+[2020.02.03-22.53.25:139][411]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.25:189][411]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.02.03-22.53.25:191][411]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-22.53.25:191][411]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-22.53.25:245][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.02.03-22.53.25:279][411]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-22.53.25:279][411]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2020.02.03-22.53.25:281][411]LogFileHelpers: Loading map 'MainMenu' took 0.149
+[2020.02.03-22.53.25:540][411]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-22.53.27:078][469]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-22.53.27:106][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.53.27:106][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-22.53.27:106][469]PIE: New page: PIE session: MainMenu (Feb 3, 2020, 12:53:27 PM)
+[2020.02.03-22.53.27:106][469]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.02.03-22.53.27:107][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001101s)
+[2020.02.03-22.53.27:108][469]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-22.53.27:108][469]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2020.02.03-22.53.27:108][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002085s)
+[2020.02.03-22.53.27:152][469]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.02.03-22.53.27:295][469]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-22.53.27:312][469]LogInit: FAudioDevice initialized.
+[2020.02.03-22.53.27:341][469]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.03-22.53.27:343][469]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.03-17.53.27
+[2020.02.03-22.53.27:343][469]LogWorld: Bringing up level for play took: 0.000398
+[2020.02.03-22.53.27:362][469]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 1.139
+[2020.02.03-22.53.27:362][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.53.33:132][743]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.53.33:920][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.53.33:920][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.53.33:956][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-22.53.33:956][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.53.34:007][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.53.34:014][781]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.02.03-22.53.34:045][782]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.02.03-22.53.38:418][994]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.02.03-22.53.38:460][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.02.03-22.53.38:461][994]Cmd: MAP LOAD FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-22.53.38:462][994]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.38:462][994]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.03-22.53.38:463][994]MapCheck: New page: Map Check
+[2020.02.03-22.53.38:463][994]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.38:511][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2020.02.03-22.53.38:562][994]LogUObjectHash: Compacting FUObjectHashTables data took   4.10ms
+[2020.02.03-22.53.38:604][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2020.02.03-22.53.38:611][994]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-22.53.38:613][994]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-22.53.38:656][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.02.03-22.53.38:687][994]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-22.53.38:687][994]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2020.02.03-22.53.38:688][994]LogFileHelpers: Loading map 'MainMenu' took 0.229
+[2020.02.03-22.53.51:359][590]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainMenu.MainMenu
+[2020.02.03-22.53.51:401][590]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.03-22.53.51:403][590]Cmd: MAP LOAD FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-22.53.51:405][590]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.51:406][590]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.02.03-22.53.51:408][590]MapCheck: New page: Map Check
+[2020.02.03-22.53.51:409][590]LightingResults: New page: Lighting Build
+[2020.02.03-22.53.51:453][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.02.03-22.53.51:458][590]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-22.53.51:459][590]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-22.53.51:503][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.02.03-22.53.51:536][590]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-22.53.51:536][590]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2020.02.03-22.53.51:538][590]LogFileHelpers: Loading map 'MainMenu' took 0.136
+[2020.02.03-22.53.57:680][883]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.03-22.53.57:689][883]LogSlate: Window 'Project Settings' being destroyed
+[2020.02.03-22.54.39:284][938]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.54.40:441][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.54.44:287][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-22.54.48:426][503]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2020.02.03-22.55.01:046][384]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.02.03-22.55.17:361][684]BlueprintLog: New page: Compile MainMenu
+[2020.02.03-22.55.17:633][684]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.02.03-22.55.18:067][709]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.02.03-22.55.18:324][709]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuBBF9D8FF4FE032F94F8EA3827F54882F.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainMenu.umap'
+[2020.02.03-22.55.18:364][709]LogFileHelpers: Saving map 'MainMenu' took 0.348
+[2020.02.03-22.55.19:867][826]LogTemp: Repeating last play command: Selected Viewport
+[2020.02.03-22.55.19:916][826]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.55.19:916][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.03-22.55.19:916][826]PIE: New page: PIE session: MainMenu (Feb 3, 2020, 12:55:19 PM)
+[2020.02.03-22.55.19:916][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2020.02.03-22.55.19:917][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001292s)
+[2020.02.03-22.55.19:918][826]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-22.55.19:918][826]LogPlayLevel: PIE: World Init took: (0.000678s)
+[2020.02.03-22.55.19:918][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002094s)
+[2020.02.03-22.55.19:965][826]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.02.03-22.55.20:115][826]LogInit: XAudio2 using 'Headphones (2- Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.03-22.55.20:132][826]LogInit: FAudioDevice initialized.
+[2020.02.03-22.55.20:164][826]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.02.03-22.55.20:166][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.02.03-17.55.20
+[2020.02.03-22.55.20:166][826]LogWorld: Bringing up level for play took: 0.000438
+[2020.02.03-22.55.20:183][826]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu -0.04
+[2020.02.03-22.55.20:183][826]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.55.24:527][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.55.24:527][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.55.24:563][169]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.03-22.55.24:563][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.02.03-22.55.24:612][169]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.03-22.55.24:618][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.02.03-22.55.24:653][170]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2020.02.03-22.55.58:334][296]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/UI/MainMenu.MainMenu_C:WidgetTree.CanvasPanel_0
+[2020.02.03-22.55.58:334][296]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_13:MainMenu_C_34.WidgetTree_0.CanvasPanel_0
+[2020.02.03-22.55.58:334][296]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/UI/MainMenu.MainMenu:WidgetTree.CanvasPanel_0.CanvasPanelSlot_10) from referencer (Button /Engine/UMG/Editor/Transient.Button_83).  Import failed...
+[2020.02.03-22.55.58:334][296]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_10"''
+[2020.02.03-22.57.41:124][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset" SILENT=true
+[2020.02.03-22.57.41:150][117]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuAC3D519049C3EFE235FA4CA1833B6A1D.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset'
+[2020.02.03-22.57.41:700][149]BlueprintLog: New page: Compile MainMenu
+[2020.02.03-22.57.41:763][149]LogUObjectHash: Compacting FUObjectHashTables data took   5.73ms
+[2020.02.03-23.05.22:960][344]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2020.02.03-23.05.22:960][344]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.054
+[2020.02.03-23.05.22:963][344]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/MainMenu] ([1] browsable assets)...
+[2020.02.03-23.05.22:963][344]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu]
+[2020.02.03-23.05.23:014][344]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenu_Auto6E854E6EA41443D45B2D690AEFB5903D6.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/Autosaves/Game/UI/MainMenu_Auto6.uasset'
+[2020.02.03-23.05.23:015][344]LogFileHelpers: Auto-saving content packages took 0.054
+[2020.02.03-23.09.19:415][131]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-23.09.32:831][717]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.02.03-23.09.33:063][717]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.03-23.09.44:433][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2020.02.03-23.09.44:433][407]LogMetaData: Removing '/Game/Maps/MainHub.SKEL_MainHub_C' ref from Metadata '/Game/Maps/FirstPersonExampleMap.PackageMetaData'
+[2020.02.03-23.09.44:433][407]LogMetaData: Removing '/Game/Maps/MainHub.MainHub_C' ref from Metadata '/Game/Maps/FirstPersonExampleMap.PackageMetaData'
+[2020.02.03-23.09.44:454][407]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainHub_BuiltData" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainHub_BuiltData.uasset" SILENT=true
+[2020.02.03-23.09.45:441][407]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainHub_BuiltData09CE16484217F8C2F61AD09CD8D0B5CF.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainHub_BuiltData.uasset'
+[2020.02.03-23.09.45:509][407]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.02.03-23.09.45:795][407]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainHub0ABEE42B45DFF59031F548A3C4BF5817.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainHub.umap'
+[2020.02.03-23.09.45:805][407]LogFileHelpers: Saving map 'MainHub' took 0.355
+[2020.02.03-23.09.46:181][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.02.03-23.09.46:226][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.02.03-23.09.46:278][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2020.02.03-23.09.46:322][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.02.03-23.09.49:074][576]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/MainHub.MainHub
+[2020.02.03-23.09.49:120][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.02.03-23.09.50:332][576]LogSlate: Window 'Save Content' being destroyed
+[2020.02.03-23.09.50:340][576]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset" SILENT=true
+[2020.02.03-23.09.50:364][576]LogSavePackage: Moving '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Saved/MainMenuF3CA70D34BF526DACD1E5FB5A990516F.tmp' to '../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/UI/MainMenu.uasset'
+[2020.02.03-23.09.50:370][576]Cmd: MAP LOAD FILE="../../../../../../Users/Anthony Brown/Documents/Github/CIT-490-Capstone/Malikca/Content/Maps/MainHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.02.03-23.09.50:370][576]LightingResults: New page: Lighting Build
+[2020.02.03-23.09.50:372][576]LoadErrors: New page: Loading map: MainHub.umap
+[2020.02.03-23.09.50:427][576]MapCheck: New page: Map Check
+[2020.02.03-23.09.50:427][576]LightingResults: New page: Lighting Build
+[2020.02.03-23.09.50:475][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.02.03-23.09.50:523][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.02.03-23.09.50:568][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2020.02.03-23.09.50:581][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.03-23.09.50:631][576]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.02.03-23.09.50:664][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.03-23.09.50:665][576]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.11ms to complete.
+[2020.02.03-23.09.50:666][576]LogFileHelpers: Loading map 'MainHub' took 0.298
+[2020.02.03-23.12.04:260][848]LogAIModule: Creating AISystem for world MainMenu
+[2020.02.03-23.12.11:419][381]LogUObjectHash: Compacting FUObjectHashTables data took   6.04ms
+[2020.02.03-23.12.11:644][381]LogAIModule: Creating AISystem for world Instructions
+[2020.02.03-23.14.47:834][ 73]BlueprintLog: New page: Compile MainMenu
+[2020.02.03-23.14.47:898][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   6.34ms
+[2020.02.03-23.14.59:632][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-23.15.02:365][ 60]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.02.03-23.15.53:649][553]LogD3D11RHI: Error: D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:(238): BackBuffer->GetResource() has 3 refs, expected 1
+[2020.02.03-23.15.53:654][553]LogD3D11RHI: Error: SwapChain->ResizeBuffers(1, SizeX, SizeY, RenderTargetFormat, DXGI_SWAP_CHAIN_FLAG_ALLOW_MODE_SWITCH) failed 
+ at D:\Build\++UE4\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:257 
+ with error DXGI_ERROR_INVALID_CALL, 
+ Size=1108x536 Format=DXGI_FORMAT_R10G10B10A2_UNORM(0x00000018)
+[2020.02.03-23.15.53:654][553]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.02.03-23.15.53:655][553]LogWindows: Windows GetLastError: The operation completed successfully. (0)
